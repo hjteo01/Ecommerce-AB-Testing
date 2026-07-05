@@ -1,4 +1,4 @@
-# Ecommerce-AB-Testing
+# eCommerce AB Testing Project
 
 ## Project Background
 This project was conducted for an E-commerce platform in the fashion industry. The objective was to evaluate the impact of adding 360-degree product videos on product pages to assess whether this feature increases conversion rates and revenue. The platform operates in a highly competitive industry, employing a customer-centric business model with millions of active users.
